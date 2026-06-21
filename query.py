@@ -33,12 +33,13 @@ client = InferenceClient(
 )
 
 def ask_question(query):
-    docs = retriever.get_relevant_documents(query)
+    # ✅ FIX: Change get_relevant_documents to invoke
+    docs = retriever.invoke(query)
     
     if not docs:
         return "❌ Not found in dataset"
 
-    print("\n📂 Retrieved Context Files:")
+    print("\n📂 Active Context Sources:")
     context_parts = []
     for d in docs:
         print(f"- {d.metadata.get('source')}")
