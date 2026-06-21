@@ -1,0 +1,70 @@
+# CSE Labs & Research Summary
+
+This dataset provides detailed information about various laboratories and research initiatives in the CSE department, including ISRO-sponsored labs, AI/ML labs, and Bioinformatics research.
+
+- Includes ISRO funded projects and labs
+- Covers AI, ML, Remote Sensing, Video Analytics, and Bioinformatics
+- Focus on research, innovation, consultancy, and real-world applications
+
+---
+
+# Labs RAG Chunks
+
+# Chunk 1
+Lab Name: ISRO, RESPOND - Geo Spatial Lab
+Objective: Suite of best fit algorithms along with pixel level confidence level estimates addressing local scale quantitative and regional scale qualitative bamboo resources assessment
+Scope: KarbiAnglong East & West district and DimaHasao District of North-Eastern Region (NER) of India
+Sanctioned On: 27 Aug 2021
+Duration: 3 Years (2021-2024)
+Funding Agency: ISRO, Department of Space
+Project Amount: Rs 25,30,000
+Project Title: Qualitative and quantitative classification of mixed bamboo forests using geospatial technology
+Team: {'principal_investigator': 'Dr. K. Srinivas', 'co_principal_investigators': ['Dr. K. K. Sarma', 'Dr. K. Suvarna Vani'], 'junior_research_fellow': 'Mr. D. Murali Krishnam Raju'}
+
+# Chunk 2
+Lab Name: Artificial Intelligence Lab for Remote Sensing Data Analysis
+Objective: Collect old datasets, generate maps from VHRS data, and update GIS database using latest VHRS
+Scope: AMRUT project area
+Sanctioned On: 23 June 2022
+Duration: 2 Years (2022-2024)
+Funding Agency: ISRO, Department of Space, NRSC
+Project Amount: Rs 17,84,920
+Project Title: Updating of Very Large Scale Urban GIS Maps using Deep Learning
+Team: {'principal_investigator': 'Dr. S. Vasavi', 'co_principal_investigators': ['Dr. SC Jayanthi', 'Dr. M. Sobhana', 'Smt N. Malathi']}
+
+# Chunk 3
+Lab Name: ISRO, ADRIN – Video Analytics Lab
+Objective: Improve robustness of video analytics algorithms including segmentation, tracking and detection
+Scope: Surveillance videos provided by ADRIN
+Sanctioned On: 14 May 2014
+Duration: 3 Years (2014-17)
+Funding Agency: ISRO, Department of Space, ADRIN
+Project Amount: Rs 18,23,000
+Project Title: Robust Video Analytics
+Team: {'principal_investigator': 'Dr. V. Srinivas Rao', 'co_principal_investigators': ['Dr. S. Venkat Raman', 'Dr. S. Vasavi', 'Dr. K. Srinivas', 'Dr. P. Ramesh Kumar']}
+
+# Chunk 4
+Lab Name: Artificial Intelligence & Machine Learning Lab
+Objective: To motivate faculty and students to carry out research in AI and ML
+Achievements: ['Dr. K. Suvarna Vani registered for Post Doctoral Fellowship']
+Phd Awarded Last 4 Years: ['Dr. K. Praveen Kumar', 'Dr. G. Kranti Kumar', 'Dr. B. Jayanag']
+Thesis Submitted: ['Mr. J. Karthik']
+Phd Registered: ['Mr. A. Raghu Veera Pratap', 'Mrs. M. Vani Pujitha', 'Ms. V. Deepa']
+Consultancy: {'project': 'Resource App Management', 'company': 'Apsolut Software India Pvt Ltd', 'amount': 'Rs 75000', 'contributors': ['Dr. M. Sobhana', 'Mr. A.R.V. Pratap']}
+Seed Projects: [{'title': 'Crop Yield and Price Prediction', 'pi': 'Dr. G. Kranti Kumar', 'amount': 'Rs 35000'}, {'title': 'Smart Door Lock using Simultaneous Face Liveness and Face Detection Algorithms', 'pi': 'Dr. G. Anuradha', 'amount': 'Rs 26250'}]
+
+# Chunk 5
+Lab Name: Bioinformatics Lab
+Description: Research in bioinformatics focusing on pattern mining, protein structure, and contact maps
+Details: ['Protein structure modeled as network of amino acids', 'Contact map is 2D symmetric matrix', 'Applications include protein fold recognition and pattern extraction']
+Research Areas: ['Protein fold recognition', '2D pattern extraction', 'Protein secondary structure assignment', 'Association rule mining', 'Contact map overlap problem']
+Publications: Published in journals and conferences including SIGKDD
+Current Research: Post Doctoral Research on AI pattern modelling for cancer using protein sparse matrices at Ton Duc Thang University, Vietnam (June 25, 2022)
+
+---
+# Summary Chunk
+
+Department: CSE
+Domains: AI, ML, Geo-Spatial, Video Analytics, Bioinformatics
+Key Support: ISRO, ADRIN, NRSC
+Focus: Research, Innovation, Consultancy, Real-world problem solving

@@ -1,0 +1,198 @@
+# Placements RAG Summary 2024–25
+
+The placement dataset for the academic year 2024–25 includes multiple companies offering roles to CSE and AI&DS students with packages ranging from 3.6 LPA to 27 LPA. Major recruiters include Accenture, JP Morgan, Cisco, Deloitte, Infosys, TCS, and AT&T.
+
+- Total Companies (approx): 31+
+- Average Package: 7.18 LPA
+- Placement Percentage: ~81%
+- Highest Package: 46 LPA (Adobe Systems)
+- Second Highest: 44 LPA (Amazon India)
+
+The dataset shows strong hiring trends in service-based companies (Accenture, TCS, CTS) along with high-paying product-based companies (JP Morgan, Cisco, Juspay).
+
+---
+
+# Placements RAG Chunks 2024–25
+
+# Chunk 1
+Company: INFOSYS(HWI)
+Package: 9.5 LPA
+CSE Offers: 4
+AI&DS Offers: None
+
+# Chunk 2
+Company: MORGAN STANLEY
+Package: 10.2 LPA
+CSE Offers: 4
+AI&DS Offers: None
+
+# Chunk 3
+Company: AVANTEL
+Package: 5.0 LPA
+CSE Offers: 1
+AI&DS Offers: None
+
+# Chunk 4
+Company: TEJAS NETWORK SYSTEMS
+Package: 10.0 LPA
+CSE Offers: 1
+AI&DS Offers: None
+
+# Chunk 5
+Company: JP MORGAN
+Package: 19.75 LPA
+CSE Offers: 1
+AI&DS Offers: None
+
+# Chunk 6
+Company: ACCENTURE
+Package: 4.6 LPA
+CSE Offers: 97
+AI&DS Offers: 26
+
+# Chunk 7
+Company: ACCENTURE
+Package: 6.5 LPA
+CSE Offers: 7
+AI&DS Offers: None
+
+# Chunk 8
+Company: IBM-women
+Package: 11 LPA
+CSE Offers: 1
+AI&DS Offers: None
+
+# Chunk 9
+Company: VEGROW
+Package: 10 LPA
+CSE Offers: 2
+AI&DS Offers: None
+
+# Chunk 10
+Company: VEGROW
+Package: 7 LPA
+CSE Offers: None
+AI&DS Offers: 1
+
+# Chunk 11
+Company: VERIZONE
+Package: 10.0 LPA
+CSE Offers: None
+AI&DS Offers: 2
+
+# Chunk 12
+Company: JUSPAY TECHNOLOGIES – 27
+Package: 27 LPA
+CSE Offers: 1
+AI&DS Offers: None
+
+# Chunk 13
+Company: JUSPAY TECHNOLOGIES – 21
+Package: 21 LPA
+CSE Offers: 1
+AI&DS Offers: None
+
+# Chunk 14
+Company: TCS PEGA DIGITAL
+Package: 7.2 LPA
+CSE Offers: None
+AI&DS Offers: 1
+
+# Chunk 15
+Company: TCS PEGA NINJA
+Package: 3.96 LPA
+CSE Offers: 1
+AI&DS Offers: 4
+
+# Chunk 16
+Company: INFOSYS
+Package: 9.5 LPA
+CSE Offers: 3
+AI&DS Offers: None
+
+# Chunk 17
+Company: DELOITTE
+Package: 7.6 LPA
+CSE Offers: 6
+AI&DS Offers: None
+
+# Chunk 18
+Company: CISCO
+Package: 17.5 LPA
+CSE Offers: 1
+AI&DS Offers: None
+
+# Chunk 19
+Company: PAL TECH
+Package: 6.0 LPA
+CSE Offers: 3
+AI&DS Offers: 4
+
+# Chunk 20
+Company: PAL TECH
+Package: 8.0 LPA
+CSE Offers: None
+AI&DS Offers: 1
+
+# Chunk 21
+Company: AT&T
+Package: 16.0 LPA
+CSE Offers: 6
+AI&DS Offers: 1
+
+# Chunk 22
+Company: CTS GEN-C
+Package: 4.0 LPA
+CSE Offers: 28
+AI&DS Offers: 6
+
+# Chunk 23
+Company: CTS GENC NEXT
+Package: None
+CSE Offers: 1
+AI&DS Offers: None
+
+# Chunk 24
+Company: INFOSYS 3.6
+Package: 3.6 LPA
+CSE Offers: 11
+AI&DS Offers: 15
+
+# Chunk 25
+Company: TCS Prime
+Package: 9 LPA
+CSE Offers: 3
+AI&DS Offers: None
+
+# Chunk 26
+Company: TCS Digital
+Package: 7.2 LPA
+CSE Offers: 36
+AI&DS Offers: 6
+
+# Chunk 27
+Company: TCS Ninja
+Package: 3.86 LPA
+CSE Offers: 92
+AI&DS Offers: 26
+
+---
+
+# Summary Chunk
+
+Total Offers: 314+
+Companies: 31+
+Average Package: 7.18 LPA
+Placement Percentage: ~81%
+
+Highest Package:
+Company: Adobe Systems
+Package: 46 LPA
+Offers: 2
+Role: SDE (Product Engineer)
+
+Second Highest:
+Company: Amazon India
+Package: 44 LPA
+Offers: 6
+Role: SDE

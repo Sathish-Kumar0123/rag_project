@@ -1,0 +1,140 @@
+# MoU & Events Summary
+
+This dataset includes academic year-wise event summaries and Memorandum of Understanding (MoU) details with various organizations.
+
+- Covers FDPs, seminars, guest talks, workshops, and other events
+- Includes collaborations with industry and government organizations
+- Shows consistent academic and industry engagement
+
+---
+
+# Events Summary RAG Chunks
+
+# Chunk 1
+Academic Year: 2021-22
+FDPs: 4
+Seminars/Webinars: 4
+Guest Talks: 6
+Workshops: 10
+Conferences: None
+Others: 6
+
+# Chunk 2
+Academic Year: 2020-21
+FDPs: 3
+Seminars/Webinars: 6
+Guest Talks: 2
+Workshops: 3
+Conferences: None
+Others: 3
+
+# Chunk 3
+Academic Year: 2019-20
+FDPs: 6
+Seminars/Webinars: 7
+Guest Talks: 16
+Workshops: 5
+Conferences: None
+Others: 7
+
+# Chunk 4
+Academic Year: 2018-19
+FDPs: 3
+Seminars/Webinars: 1
+Guest Talks: 5
+Workshops: 7
+Conferences: None
+Others: 1
+
+# Chunk 5
+Academic Year: 2017-18
+FDPs: 3
+Seminars/Webinars: 9
+Guest Talks: 5
+Workshops: 5
+Conferences: None
+Others: 1
+
+# Chunk 6
+Academic Year: 2016-17
+FDPs: 0
+Seminars/Webinars: 4
+Guest Talks: 6
+Workshops: 11
+Conferences: 1
+Others: 4
+
+
+# MoU Details RAG Chunks
+
+# Chunk 7
+Company: Virtusa Consulting Services Private Limited
+Date of MoU: 26-05-2022
+MoU Link: Document
+
+# Chunk 8
+Company: Andhra Pradesh Space Applications Centre (APSAC)
+Date of MoU: 16-05-2022
+MoU Link: Document
+
+# Chunk 9
+Company: Andhra Pradesh State Skill Development Corporation
+Date of MoU: 31-12-2021
+MoU Link: Document
+
+# Chunk 10
+Company: Juniper Networks
+Date of MoU: 08-12-2021
+MoU Link: Document
+
+# Chunk 11
+Company: Avantel Limited
+Date of MoU: 10-11-2021
+MoU Link: Document
+
+# Chunk 12
+Company: Indian Servers Private Limited
+Date of MoU: 06-10-2021
+MoU Link: Document
+
+# Chunk 13
+Company: AWS Academy
+Date of MoU: 13-07-2021
+MoU Link: Document
+
+# Chunk 14
+Company: Palo Alto Networks Cyber Security Academy
+Date of MoU: 12-04-2021
+MoU Link: Document
+
+# Chunk 15
+Company: Quantum Learnings Centre of Excellence
+Date of MoU: 20-02-2021
+MoU Link: Document
+
+# Chunk 16
+Company: Blue Prism India Private Limited
+Date of MoU: 20-12-2020
+MoU Link: Document
+
+# Chunk 17
+Company: Emurgo Learning Solutions Private Limited
+Date of MoU: 03-12-2019
+MoU Link: Document
+
+# Chunk 18
+Company: Anblicks Solutions Private Limited
+Date of MoU: 19-09-2019
+MoU Link: Document
+
+# Chunk 19
+Company: Palo Alto Networks Cyber Security Academy
+Date of MoU: 18-07-2019
+MoU Link: Document
+
+---
+# Summary Chunk
+
+Domain: Events & MoUs
+Focus: Academic activities, industry collaboration, skill development
+Strong partnerships with companies and organizations

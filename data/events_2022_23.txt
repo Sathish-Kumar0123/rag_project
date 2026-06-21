@@ -1,0 +1,271 @@
+# Events Organised by cse vrsec ,Summary 2022–23.
+
+During the academic year 2022–23, the Department of Computer Science & Engineering organized a total of 30 events including seminars, workshops, FDPs, guest lectures, student competitions, and certification programs.
+
+- Seminars/Webinars: 7
+- Workshops: 13
+- FDPs: 3
+- Guest Lectures: 3
+- Others: 4
+
+The events focused on emerging technologies such as IoT, Artificial Intelligence, Cyber Security, Cloud Computing, Blockchain, AR/VR, and industry-oriented skills. Participation included students, faculty, and non-teaching staff. Most events were sponsored by SAGTE, with some supported by AICTE.
+
+---
+
+# Events Organised 2022–23 (Complete Details)
+
+### Event 1
+Type: Workshop  
+Title: Three day boot camp-cum-Hackathon on IoT technology stack and its applications  
+Resource Person: Mr. Sai Satish, CEO, Indian Servers  
+Date: 07–09 July 2022  
+Sponsor: SAGTE  
+Participants: Students – 235  
+
+### Event 2
+Type: Seminar  
+Title: Career planning after Graduation  
+Resource Person: Mr. Murty, Vice Chairman, Woxsen School of Business  
+Date: 11-07-2022  
+Sponsor: SAGTE  
+Participants: Students – 118  
+
+### Event 3
+Type: Guest Talk  
+Title: The Need and benefits of Intellectual Property Rights and Start-up Funding Opportunities for Academic Community  
+Resource Person: Dr. K Raghava Rao, KLU  
+Date: 12-07-2022  
+Sponsor: SAGTE  
+Participants: Faculty – 34  
+
+### Event 4
+Type: Student Competition  
+Title: Teckraze  
+Date: 11-08-2022  
+Sponsor: SAGTE  
+Participants: Students – 101  
+
+### Event 5
+Type: Workshop  
+Title: ACM SIGAI Student Chapter Event  
+Resource Persons:
+- Dr. Tilottama Goswami  
+- Dr. Gopala Krishna Behara  
+- Dr. MuniRaju Naidu  
+Date: 20-08-2022  
+Sponsor: SAGTE  
+Participants: Faculty & Students – 200  
+
+### Event 6
+Type: Seminar  
+Title: Applications performance monitoring using Secure RUM Approaches  
+Resource Person: Mr. Janaki Ram Naralasetti, Inetum-Realdolmen, Belgium  
+Date: 30-08-2022  
+Sponsor: SAGTE  
+Participants: Students – 141  
+
+### Event 7
+Type: Webinar  
+Title: Evolution of Programming Paradigms – An Architect’s View  
+Resource Person: Mr. Vijaya Babu Ch, OSI Solutions Ltd, Hyderabad  
+Date: 03-09-2022  
+Sponsor: SAGTE  
+Participants: Students – 156  
+
+### Event 8
+Type: Workshop  
+Title: Awareness Program on Cyber Security (Schools)  
+Resource Person: Sri Ch. Nageswara Rao  
+Date: 17, 21, 23 September 2022  
+Sponsor: SAGTE  
+Participants: Students – 197  
+
+### Event 9
+Type: FDP  
+Title: Python for Scientific Computing  
+Resource Person: Dr. Earnest Paul Ijjina  
+Date: 19–23 September 2022  
+Sponsor: SAGTE  
+Participants: Faculty – 36  
+
+### Event 10
+Type: Student Event  
+Title: PARAMPARA  
+Date: 30 September 2022  
+Sponsor: SAGTE  
+Participants: Students – 400  
+
+### Event 11
+Type: Seminar  
+Title: Research Article Writing – Why and How  
+Resource Person: Dr. B.T.P. Madhav, KI University  
+Date: 01 October 2022  
+Sponsor: SAGTE  
+Participants: Students – 427  
+
+### Event 12
+Type: Workshop  
+Title: Third Expo on Cyber Security  
+Date: 11 October 2022  
+Sponsor: SAGTE  
+Participants: Students – 26  
+
+### Event 13
+Type: Guest Talk  
+Title: Role and Impact of Data on Business and Society  
+Resource Person: Sri P. Chandra, TJX Technologies, USA  
+Date: 12 October 2022  
+Sponsor: SAGTE  
+Participants: Students – 146  
+
+### Event 14
+Type: Certificate Training  
+Title: Ideate2Hack – National Level 24-hour Hackathon  
+Resource Persons:
+- U. Sai Ram  
+- K. Saketh Reddy  
+- Sri P. Chandra  
+Date: 13–14 October 2022  
+Sponsor: SAGTE  
+Participants: Students – 103  
+
+### Event 15
+Type: Workshop  
+Title: Data Analytics and Case Studies  
+Resource Person: Dr. Debasis Samanta, IIT Kharagpur  
+Date: 20–21 October 2022  
+Sponsor: SAGTE  
+Participants: Students – 172  
+
+### Event 16
+Type: Certificate Training  
+Title: AWS Certified Cloud Practitioner Program  
+Date: 26 Oct – 07 Nov 2022  
+Sponsor: SAGTE  
+Participants: Faculty & Students – 120  
+
+### Event 17
+Type: Workshop  
+Title: Artificial Intelligence in Remote Sensing Applications  
+Resource Persons: ISRO, DRDO Experts  
+Date: 31 Oct – 05 Nov 2022  
+Sponsor: SAGTE  
+Participants: Faculty & Students – 135  
+
+### Event 18
+Type: Workshop  
+Title: Aptitude Skills for Placements  
+Resource Person: Mr. P. Vivekanandan  
+Date: 11 November 2022  
+Sponsor: SAGTE  
+Participants: Students – 226  
+
+### Event 19
+Type: Seminar  
+Title: Startup Conclave  
+Speakers:
+- Sreeram Raavi  
+- Dr. Venkata Ramana Akula  
+- Dasari Anvesh  
+- S. Narendra Kumar  
+Date: 16 December 2022  
+Sponsor: SAGTE  
+Participants: Students – 25  
+
+### Event 20
+Type: Guest Talk  
+Title: IEEE WIE Women Leadership Conclave  
+Speakers:
+- Smt. P. Venkata Ratnam  
+- Dr. Pallavi Atluri  
+Date: 08 March 2023  
+Sponsor: SAGTE  
+Participants: Students – 146  
+
+### Event 21
+Type: Student Competition  
+Title: FEMBLAZE – Women’s Day Celebrations  
+Date: 08 March 2023  
+Sponsor: SAGTE  
+Participants: Faculty & Students – 192  
+
+### Event 22
+Type: Workshop  
+Title: Cyber Security Tools and Techniques  
+Resource Persons:
+- Sai Satish  
+- KVN Karthik  
+Date: 13–15 March 2023  
+Sponsor: SAGTE  
+Participants: Students – 176  
+
+### Event 23
+Type: Workshop  
+Title: Blockchain Technology and Applications  
+Resource Person: Talasila Ram Kumar  
+Date: 17–18 March 2023  
+Sponsor: SAGTE  
+Participants: Students – 154  
+
+### Event 24
+Type: Workshop  
+Title: Design Thinking and Ideation  
+Resource Persons:
+- Shri Anjali  
+- Mr. Krishna Kumar  
+Date: 04–10 March 2023  
+Sponsor: SAGTE  
+Participants: Students – 172  
+
+### Event 25
+Type: Workshop  
+Title: AR/VR Technologies and Applications  
+Resource Person: Ms. Shravanthi D  
+Date: Feb–March 2023  
+Sponsor: SAGTE  
+Participants: Students – 36  
+
+### Event 26
+Type: Workshop  
+Title: Roadmap for Career Pathways  
+Resource Person: Mr. Vivekananda Murthy  
+Date: 31 March 2023  
+Sponsor: SAGTE  
+Participants: Students – 178  
+
+### Event 27
+Type: Seminar  
+Title: Technological Innovation for Societal Problems  
+Speakers:
+- Dr. Stephanie Gillespie  
+- Sri Samarth  
+- Dr. Dinesh Singh  
+Date: 10–11 April 2023  
+Sponsor: SAGTE  
+Participants: Students – 463  
+
+### Event 28
+Type: Seminar  
+Title: Image Analysis using OpenCV Python  
+Resource Person: Mr. Chaitanya K  
+Date: 10–11 April 2023  
+Sponsor: SAGTE  
+Participants: Students – 134  
+
+### Event 29
+Type: FDP  
+Title: Salesforce Platform Developer 1  
+Resource Persons:
+- Ragha Vendra Swamy  
+- Charan Chadragiri  
+Date: 05–09 June 2023  
+Sponsor: SAGTE  
+Participants: Faculty – 36  
+
+### Event 30
+Type: FDP  
+Title: Open Source Technologies  
+Resource Person: Mr. Amruth Kumar  
+Date: 12 June 2023  
+Sponsor: AICTE Margdarshan  
+Participants: Non-Teaching Faculty – 12  

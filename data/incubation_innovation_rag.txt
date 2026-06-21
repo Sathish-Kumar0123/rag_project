@@ -1,0 +1,177 @@
+# Incubation & Innovation Summary
+
+This dataset provides detailed information about the CSE Department Incubation Center and Innovation Hub activities. It includes industry collaboration, student engagement, internships, projects, innovation models, and achievements.
+
+- Collaboration with Indian Servers (since 2018)
+- Focus on AR, VR, IoT, Cyber Security, Machine Learning, Android
+- Provides internships, real-time projects, and startup incubation
+- Strong innovation culture with models, prizes, and student participation
+
+---
+
+# Incubation & Innovation RAG Chunks
+
+# Chunk 1
+Section: Incubation Center
+Company: Indian Servers
+Description: CSE Department VRSEC collaborated with Indian Servers in November 2018 to incubate company setup in department incubation center. Provides industry exposure, internships, mentoring, and real-time project experience.
+Global Presence: India, USA, UK, UAE, Germany, South Africa
+Objectives: Training on AR, VR, IoT, Cyber Security, Machine Learning, Android Development, Provide internship opportunities, Enable real-time project development and startup incubation
+Students Engaged: 150
+Projects: Human Anatomy Visualization System, Augmented Reality Restaurant Menu, Smart Menu for Restaurants, Web Application Security Testing
+Events Organized: 4
+Collaborative Publications: 10
+
+# Chunk 2
+Section: Internship Data
+Year: 2021-2022
+Internships Count: 13
+
+# Chunk 3
+Section: Internship Data
+Year: 2020-2021
+Internships Count: 5
+
+# Chunk 4
+Section: Internship Data
+Year: 2019-2020
+Internships Count: 35
+
+# Chunk 5
+Section: Internship Data
+Year: 2018-2019
+Internships Count: 47
+
+# Chunk 6
+Section: Innovation Hub Models
+Year: 2021-22
+Total Models: 26
+Physical Models: 8
+Software Models: 18
+Students: 60
+Prizes Won: 2
+Prize Money: 20600
+
+# Chunk 7
+Section: Innovation Hub Models
+Year: 2020-21
+Total Models: 14
+Physical Models: 5
+Software Models: 9
+Students: 40
+Prizes Won: 2
+Prize Money: 3000
+
+# Chunk 8
+Section: Innovation Hub Models
+Year: 2019-20
+Total Models: 32
+Physical Models: 10
+Software Models: 22
+Students: 119
+Prizes Won: 3
+Prize Money: 10000
+
+# Chunk 9
+Section: Innovation Hub Models
+Year: 2018-19
+Total Models: 32
+Physical Models: 11
+Software Models: 21
+Students: 95
+Prizes Won: 3
+Prize Money: 9000
+
+# Chunk 10
+Section: Innovation Hub Models
+Year: 2017-18
+Total Models: 38
+Physical Models: 15
+Software Models: 23
+Students: 177
+Prizes Won: 3
+Prize Money: None
+
+# Chunk 11
+Section: External Visitors
+Year: 2021-22
+Visitors: 100
+
+# Chunk 12
+Section: External Visitors
+Year: 2020-21
+Visitors: Online
+
+# Chunk 13
+Section: External Visitors
+Year: 2019-20
+Visitors: 700
+
+# Chunk 14
+Section: External Visitors
+Year: 2018-19
+Visitors: 500
+
+# Chunk 15
+Section: External Visitors
+Year: 2017-18
+Visitors: 400
+
+# Chunk 16
+Section: Ideas Developed
+Year: 2021-22
+Ideas: 9
+
+# Chunk 17
+Section: Ideas Developed
+Year: 2020-21
+Ideas: 4
+
+# Chunk 18
+Section: Ideas Developed
+Year: 2019-20
+Ideas: None
+
+# Chunk 19
+Section: Ideas Developed
+Year: 2018-19
+Ideas: 1
+
+# Chunk 20
+Section: Ideas Developed
+Year: 2017-18
+Ideas: None
+
+# Chunk 21
+Section: Innovation Publications
+Year: 2021-22
+Publications: No
+
+# Chunk 22
+Section: Innovation Publications
+Year: 2020-21
+Publications: No
+
+# Chunk 23
+Section: Innovation Publications
+Year: 2019-20
+Publications: No
+
+# Chunk 24
+Section: Innovation Publications
+Year: 2018-19
+Publications: No
+
+# Chunk 25
+Section: Innovation Publications
+Year: 2017-18
+Publications: No
+
+---
+# Summary Chunk
+
+Domain: Incubation & Innovation
+Focus Areas: AR, VR, IoT, Cyber Security, ML, Android
+Key Partner: Indian Servers
+Activities: Internships, Projects, Models, Competitions
+Strong student engagement and innovation ecosystem

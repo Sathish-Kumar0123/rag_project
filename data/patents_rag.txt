@@ -1,0 +1,91 @@
+# Patents Summary
+
+This dataset contains details of patents filed, published, and accepted in the academic year 2021–22. It includes utility and design patents across domains like IoT, healthcare, blockchain, and data analytics.
+
+- Total Patents: 8
+- Types: Utility & Design Patents
+- Status: Published, Filed, Accepted
+- Domains: IoT, Healthcare, COVID detection, Data Analytics
+
+---
+
+# Patents RAG Chunks
+
+# Chunk 1
+Title: Method, System and Device for Crop Detection Blockchain Based
+Reference Number: 202141042413
+Filed Date: 20/09/2021
+Published Date: 05/11/2021
+Faculty: Rupa Ch, S. Jayaprada, Ch.V.Narayana
+Status: Published
+Type: Utility Patent
+
+# Chunk 2
+Title: Model of Intelligent Smart Medicine Box for Elderly People
+Reference Number: 202141054350
+Filed Date: 24/11/2021
+Published Date: 10/12/2021
+Faculty: Dr. Kudipudi Srinivas
+Status: Published
+Type: Utility Patent
+
+# Chunk 3
+Title: Design of innovative gateway to identify covid symptoms using IoT
+Reference Number: 202241005032
+Filed Date: 30/01/2022
+Published Date: 25/02/2022
+Faculty: M. Vani Pujitha, Dr. A. Vimala Jiya, Dr. Gururaj Murtugudde, Dr. M. Maghimaa, Dr. T. Ponnasri, Dr. J. Mohana, Dr. N. Madhanak Kumar, W. Stanley Karunakaran, K. Balaji, A. Ashdeep Singh
+Status: Published
+Type: Utility Patent
+
+# Chunk 4
+Title: Temperature Sensor Based Screening for Prevention of Spread of Covid-19
+Reference Number: 202241002791
+Filed Date: 18/01/2022
+Published Date: 28/01/2022
+Faculty: Dr. N. Vijayalakshmi, Dr. S Sivakumar, M. Madhavi, S Pandit Kumar, K Sudhakar, Dr. E Karthikeyan
+Status: Published
+Type: Utility Patent
+
+# Chunk 5
+Title: Driver Motivation System
+Reference Number: 364012-001
+Filed Date: 11/05/2022
+Published Date: None
+Faculty: Dr. K. Praveen Kumar, Pindra Lakshmi Kumari, Purama Vasanthi, Yenugudhati Lahari
+Status: Filed
+Type: Design Patent
+
+# Chunk 6
+Title: Health Monitoring Device
+Reference Number: 363287-001
+Filed Date: 27/04/2022
+Published Date: None
+Faculty: Dr. K. Suvarna Vani, Dr. K. Praveen Kumar, Mrs. K. S. Vijayalakshmi
+Status: Accepted
+Type: Design Patent
+
+# Chunk 7
+Title: Outliers Detection with Stepwise Multiple Regression in High Dimensional Data
+Reference Number: 202241035418
+Filed Date: 21/06/2022
+Published Date: 24/06/2022
+Faculty: Dr. Anuradha Chinta
+Status: Published
+Type: Utility Patent
+
+# Chunk 8
+Title: Fundus Image Detector
+Reference Number: 336946-001
+Filed Date: 29/06/2022
+Published Date: None
+Faculty: Dr. K. Suvarna Vani, Puppala Praneeth, Vivek Kommareddy, Parasa Rishi Kumar
+Status: Filed
+Type: Design Patent
+
+---
+# Summary Chunk
+
+Academic Year: 2021-22
+Total Patents: 8
+Domains: IoT, Healthcare, Blockchain, Data Analytics

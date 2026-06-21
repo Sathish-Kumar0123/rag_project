@@ -1,0 +1,642 @@
+# CSE Faculty & Staff Summary
+
+This dataset contains detailed information about CSE department faculty and non-teaching staff including designation, qualification, and contact details.
+
+- Includes Teaching and Non-Teaching staff
+- Covers Professors, Associate Professors, Assistant Professors, and Support Staff
+- Provides qualifications and email/contact information
+
+---
+
+# CSE RAG Chunks (Faculty & Staff)
+
+# Chunk 1
+Type: Teaching
+Name: Dr. D. Rajeswara Rao
+Designation: Professor & Head
+Qualification: M.Tech, Ph.D
+Email: hodcse@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 2
+Type: Teaching
+Name: Dr. K. Srinivas
+Designation: Professor
+Qualification: M.Tech, Ph.D
+Email: vrdks@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 3
+Type: Teaching
+Name: Dr. S. Vasavi
+Designation: Professor
+Qualification: M.S, Ph.D
+Email: vasavi_movva@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 4
+Type: Teaching
+Name: Dr. K. Suvarna Vani
+Designation: Professor
+Qualification: M.Tech, Ph.D
+Email: suvarnavanik@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 5
+Type: Teaching
+Name: Dr. Ch. Rupa
+Designation: Professor
+Qualification: M.Tech, Ph.D
+Email: drchrupa@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 6
+Type: Teaching
+Name: Dr. Mohammed Ismail B
+Designation: Professor
+Qualification: M.Tech, Ph.D
+Email: drismail@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 7
+Type: Teaching
+Name: Dr. K. Praveen Kumar
+Designation: Associate Professor
+Qualification: M.Tech, Ph.D
+Email: praveen@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 8
+Type: Teaching
+Name: Mr. S. Ravi Kishan
+Designation: Associate Professor
+Qualification: M.Tech (Ph.D)
+Email: suraki@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 9
+Type: Teaching
+Name: Dr. P. Ramesh Kumar
+Designation: Associate Professor
+Qualification: M.Tech, Ph.D
+Email: rameshkumar@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 10
+Type: Teaching
+Name: Dr. G. Anuradha
+Designation: Associate Professor
+Qualification: M.Tech, Ph.D
+Email: ganuradha@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 11
+Type: Teaching
+Name: Dr. M. Sobhana
+Designation: Associate Professor
+Qualification: M.Tech, Ph.D
+Email: sobhana@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 12
+Type: Teaching
+Name: Dr. K. Gunasekaran
+Designation: Associate Professor
+Qualification: M.Tech, Ph.D
+Email: drgunasekaran@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 13
+Type: Teaching
+Name: Dr. K.L. Sailaja
+Designation: Sr. Assistant Professor
+Qualification: M.Tech, Ph.D
+Email: sailajak@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 14
+Type: Teaching
+Name: Dr. G. Kranti Kumar
+Designation: Sr. Assistant Professor
+Qualification: M.Tech, Ph.D
+Email: kranthi@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 15
+Type: Teaching
+Name: Dr. P. Ravisankar
+Designation: Sr. Assistant Professor
+Qualification: M.Tech, Ph.D
+Email: ravi482@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 16
+Type: Teaching
+Name: Mrs. K. S. Vijayalakshmi
+Designation: Assistant Professor
+Qualification: M.Tech (Ph.D)
+Email: vijaya@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 17
+Type: Teaching
+Name: Mr. S. Rajesh
+Designation: Assistant Professor
+Qualification: M.Tech (Ph.D)
+Email: srajesh@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 18
+Type: Teaching
+Name: Mr. J.V.D. Prasad
+Designation: Assistant Professor
+Qualification: M.Tech (Ph.D)
+Email: prasadj@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 19
+Type: Teaching
+Name: Mrs. M. Vani Pujitha
+Designation: Assistant Professor
+Qualification: M.Tech (Ph.D)
+Email: pujitha@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 20
+Type: Teaching
+Name: Mr. A. Raghuvira Pratap
+Designation: Assistant Professor
+Qualification: M.Tech (Ph.D)
+Email: pratapadimulam@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 21
+Type: Teaching
+Name: Mr. S. Babu
+Designation: Assistant Professor
+Qualification: M.Tech (Ph.D)
+Email: sbabu@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 22
+Type: Teaching
+Name: Mr. D. Suresh Babu
+Designation: Assistant Professor
+Qualification: M.Tech (Ph.D)
+Email: dasarisuresh@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 23
+Type: Teaching
+Name: Mr. Ch. Mukesh
+Designation: Assistant Professor
+Qualification: M.S (Ph.D)
+Email: mukesh.chinta@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 24
+Type: Teaching
+Name: Mr. N. Sunny
+Designation: Assistant Professor
+Qualification: M.Tech (Ph.D)
+Email: sunny@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 25
+Type: Teaching
+Name: Mrs. Ch. Raga Madhuri
+Designation: Assistant Professor
+Qualification: M.Tech (Ph.D)
+Email: chragamadhuri@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 26
+Type: Teaching
+Name: Dr. Ch. Anuradha
+Designation: Assistant Professor
+Qualification: M.Tech, Ph.D
+Email: anuradha.chinta@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 27
+Type: Teaching
+Name: Mr. V. Sandeep
+Designation: Assistant Professor
+Qualification: M.Tech (Ph.D)
+Email: sandeepv@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 28
+Type: Teaching
+Name: Ms. V. Deepa
+Designation: Assistant Professor
+Qualification: M.Tech (Ph.D)
+Email: deepa@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 29
+Type: Teaching
+Name: Mr. Prabu U
+Designation: Assistant Professor
+Qualification: M.Tech (Ph.D)
+Email: prabu@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 30
+Type: Teaching
+Name: Dr. Ashutosh Satapathy
+Designation: Assistant Professor
+Qualification: M.Tech, Ph.D
+Email: ashutosh@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 31
+Type: Teaching
+Name: Mrs. A. Asritha
+Designation: Assistant Professor
+Qualification: M.Tech
+Email: asritha@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 32
+Type: Teaching
+Name: Ms. M. Madhavi
+Designation: Assistant Professor
+Qualification: M.Tech (Ph.D)
+Email: mmadhavi@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 33
+Type: Teaching
+Name: Mr. B. J Lakshmi Narayana
+Designation: Assistant Professor
+Qualification: M.Tech (Ph.D)
+Email: jlnarayana@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 34
+Type: Teaching
+Name: Mrs. R. Swapna
+Designation: Assistant Professor
+Qualification: M.Tech (Ph.D)
+Email: rswapna@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 35
+Type: Teaching
+Name: Mrs. K. Keerthi
+Designation: Assistant Professor
+Qualification: M.Tech (Ph.D)
+Email: kkeert hi@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 36
+Type: Teaching
+Name: Mr. S. Subhakar
+Designation: Assistant Professor
+Qualification: M.Tech
+Email: subhakar@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 37
+Type: Teaching
+Name: Mr. K. Siva Sai Ram Prasad
+Designation: Assistant Professor
+Qualification: M.Tech (Ph.D)
+Email: sivasairamprasad@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 38
+Type: Teaching
+Name: Mrs. J. Lakshmi Alekhya
+Designation: Assistant Professor
+Qualification: M.Tech (Ph.D)
+Email: jlalekhya@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 39
+Type: Teaching
+Name: Dr. T. Meena
+Designation: Assistant Professor
+Qualification: M.Tech, Ph.D
+Email: meena@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 40
+Type: Teaching
+Name: Dr. T. Bindu Madhavi
+Designation: Assistant Professor
+Qualification: M.Tech, Ph.D
+Email: bindumadhavi@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 41
+Type: Teaching
+Name: Mr. K. Rama Krishna
+Designation: Assistant Professor
+Qualification: M.Tech (Ph.D)
+Email: kramakrishna@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 42
+Type: Teaching
+Name: Mrs. K. Rani
+Designation: Assistant Professor
+Qualification: M.Tech (Ph.D)
+Email: krani@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 43
+Type: Teaching
+Name: Mrs. V. Lavanya
+Designation: Assistant Professor
+Qualification: M.Tech (Ph.D)
+Email: lavanya@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 44
+Type: Teaching
+Name: Dr. N. Krishna Santosh
+Designation: Assistant Professor
+Qualification: M.Tech, Ph.D
+Email: krishnasantosh@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 45
+Type: Teaching
+Name: Dr. P. Dhanavanthini
+Designation: Assistant Professor
+Qualification: M.Tech, Ph.D
+Email: dhanavanthini@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 46
+Type: Teaching
+Name: Dr. P. Surendra Varma
+Designation: Assistant Professor
+Qualification: M.Tech, Ph.D
+Email: surendrvarma@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 47
+Type: Teaching
+Name: Mrs. G. Indrasree
+Designation: Assistant Professor
+Qualification: M.Tech (Ph.D)
+Email: indrasri@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 48
+Type: Teaching
+Name: Dr. P. Sukanya
+Designation: Assistant Professor
+Qualification: M.Tech, Ph.D
+Email: sukanya@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 49
+Type: Teaching
+Name: Dr. K. Lakshmi Revathi
+Designation: Assistant Professor
+Qualification: M.Tech, Ph.D
+Email: lakshmirevathi@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 50
+Type: Teaching
+Name: Dr. Gopinath M
+Designation: Assistant Professor
+Qualification: M.Tech, Ph.D
+Email: gopinathm@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 51
+Type: Teaching
+Name: Mrs. Malathi Janapati
+Designation: Assistant Professor
+Qualification: M.Tech
+Email: malathi.j@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 52
+Type: Teaching
+Name: Dr. N. Malarvizhi
+Designation: Assistant Professor
+Qualification: M.E, Ph.D
+Email: nmalarvizhi16@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 53
+Type: Teaching
+Name: Dr. S. Asha Varma
+Designation: Assistant Professor
+Qualification: M.Tech, Ph.D
+Email: ashavarma@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 54
+Type: Teaching
+Name: Mrs. T. Raja Rajeswari
+Designation: Assistant Professor
+Qualification: M.Tech (Ph.D)
+Email: thrajeswari@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 55
+Type: Teaching
+Name: Mrs. K. Chandrakala
+Designation: Assistant Professor
+Qualification: M.Tech (Ph.D)
+Email: chandrakala@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 56
+Type: Teaching
+Name: Mrs. Kothapalli Divya
+Designation: Assistant Professor
+Qualification: M.Tech
+Email: kdivya@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 57
+Type: Teaching
+Name: Mrs. T. Malleswari
+Designation: Assistant Professor
+Qualification: M.Tech (Ph.D)
+Email: malleshwari@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 58
+Type: Teaching
+Name: Mr. Venkata S.P. Dendukuri
+Designation: Assistant Professor
+Qualification: M.S(UK), M.S(USA)
+Email: venkataspd@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 59
+Type: Teaching
+Name: Ms. K. Rupa Kusuma
+Designation: Assistant Professor
+Qualification: M.Tech
+Email: krupakusuma@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 60
+Type: Teaching
+Name: Dr. N. Sravani
+Designation: Assistant Professor
+Qualification: M.Tech, Ph.D
+Email: drsravani@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 61
+Type: Teaching
+Name: Mr. Phannendra K
+Designation: Assistant Professor
+Qualification: M.Tech
+Email: phaneendrak@vrsiddhartha.ac.in
+Department: CSE
+
+# Chunk 62
+Type: Non-Teaching
+Name: P.S. Ramacharyulu
+Designation: 
+Qualification: MCA
+Email: Not Available
+Department: CSE
+
+# Chunk 63
+Type: Non-Teaching
+Name: A.V. Siva Durga
+Designation: Jr. Programmer
+Qualification: DCCP
+Email: Not Available
+Department: CSE
+
+# Chunk 64
+Type: Non-Teaching
+Name: B. Ambedkar
+Designation: Hardware Technician
+Qualification: DECE
+Email: Not Available
+Department: CSE
+
+# Chunk 65
+Type: Non-Teaching
+Name: P. Anil Kumar
+Designation: Hardware Technician
+Qualification: B.Tech(CSE)
+Email: Not Available
+Department: CSE
+
+# Chunk 66
+Type: Non-Teaching
+Name: S.B. Sankara Rao
+Designation: Lab Attender
+Qualification: 
+Email: Not Available
+Department: CSE
+
+# Chunk 67
+Type: Non-Teaching
+Name: Ch. Guru Kishore
+Designation: Graphic & Web Designer
+Qualification: B.Com, Multimedia
+Email: Not Available
+Department: CSE
+
+# Chunk 68
+Type: Non-Teaching
+Name: A. Udaya Rohini
+Designation: Jr. Programmer
+Qualification: MCA
+Email: Not Available
+Department: CSE
+
+# Chunk 69
+Type: Non-Teaching
+Name: S. Rama Prasad
+Designation: Jr. Programmer
+Qualification: B.Sc (Computers)
+Email: Not Available
+Department: CSE
+
+# Chunk 70
+Type: Non-Teaching
+Name: Sk. Lalitha Rani
+Designation: Office Assistant Cum DEO
+Qualification: MSc (Computers)
+Email: Not Available
+Department: CSE
+
+# Chunk 71
+Type: Non-Teaching
+Name: M. Shyam Kumar
+Designation: Jr. Programmer
+Qualification: B.Sc (Computers)
+Email: Not Available
+Department: CSE
+
+# Chunk 72
+Type: Non-Teaching
+Name: M. Lavanya
+Designation: Jr. Programmer
+Qualification: B.Com (Computers)
+Email: Not Available
+Department: CSE
+
+# Chunk 73
+Type: Non-Teaching
+Name: A. Sairam
+Designation: Jr. Programmer
+Qualification: B.Tech(CSE)
+Email: Not Available
+Department: CSE
+
+# Chunk 74
+Type: Non-Teaching
+Name: Y. Sai Ramesh
+Designation: Jr. Programmer
+Qualification: MCA
+Email: Not Available
+Department: CSE
+
+# Chunk 75
+Type: Non-Teaching
+Name: Abdul Sattar
+Designation: Jr. Programmer
+Qualification: MCA
+Email: Not Available
+Department: CSE
+
+# Chunk 76
+Type: Non-Teaching
+Name: G. Anil Kumar
+Designation: Jr. Programmer
+Qualification: B.Tech(CSE)
+Email: Not Available
+Department: CSE
+
+# Chunk 77
+Type: Non-Teaching
+Name: H Prasanna
+Designation: 
+Qualification: MCA
+Email: Not Available
+Department: CSE
+
+# Chunk 78
+Type: Non-Teaching
+Name: K. Thanusha
+Designation: Jr. Programmer
+Qualification: B.Sc (Computers)
+Email: Not Available
+Department: CSE
+
+---
+# Summary Chunk
+
+Department: CSE
+Includes: Teaching & Non-Teaching Staff
+Roles Covered: Professors, Associate Professors, Assistant Professors, Programmers, Technicians, and Support Staff

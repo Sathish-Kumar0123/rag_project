@@ -1,0 +1,44 @@
+INDUSTRY CERTIFICATIONS BY STUDENTS
+
+==================== A.Y. 2023 ====================
+
+1. Eduskills AICTE Virtual Internship Cohort5 – 440 – AWS Cloud, AWS AI/ML, RPA, Data Analytics etc.
+2. Cisco CCNA – 210 – Networking
+3. CCNA Cyberops – 175 – Cyber Security
+4. Linux Essentials – 200 – Linux
+5. Blueprism – 180 – RPA
+6. Paloalto – 55 – Cyber Security
+7. Google – 138 – Cloud
+8. PEGA CSSA – 130 – BPA
+9. Cisco Devnet – 63 – Devops
+10. NPTEL – 160 – C++, AGT, R Software
+11. Connecting Things – 37 – IoT
+
+TOTAL: 1788
+
+==================== A.Y. 2022 ====================
+
+1. Eduskills AICTE Virtual Internship Cohort5 – 365 – AWS Cloud, AWS AI/ML, RPA, Data Analytics etc.
+2. Cisco CCNA – 180 – Networking
+3. Linux Essentials – 200 – Linux
+4. Blueprism – 180 – RPA
+5. Google – 45 – Cloud
+6. PEGA CSSA – 110 – BPA
+7. Cisco Devnet – 84 – Devops
+8. NPTEL – 160 – C++, AGT, R Software
+9. Connecting Things – 132 – IoT
+
+TOTAL: 1456
+
+==================== A.Y. 2021 ====================
+
+1. Eduskills AICTE Virtual Internship Cohort5 – 266 – AWS Cloud, AWS AI/ML, RPA, Data Analytics etc.
+2. Cisco CCNA – 180 – Networking
+3. Linux Essentials – 200 – Linux
+4. Blueprism – 180 – RPA
+5. Google – 138 – Cloud
+6. PEGA CSSA – 90 – BPA
+7. Cisco Devnet – 130 – Devops
+8. NPTEL – 160 – C++, AGT, R Software
+
+TOTAL: 1344

@@ -1,0 +1,43 @@
+# Publications & Gold Medals Summary
+
+This dataset provides details about student publications for academic years 2022–23 and 2023–24, along with college gold medal recipients. Publications include UG, PG, SCI, Scopus, IEEE conferences, and book chapters. Gold medals are awarded to top-performing students based on CGPA.
+
+---
+
+# Student Publications
+
+## Academic Year 2022–23
+- Total Publications: 148
+- UG Publications: 146
+- PG Publications: 2
+
+---
+
+## Academic Year 2023–24
+- Total Publications: 149
+- Science Citation Index (SCI): 6
+- Scopus Indexed Journals: 22
+- Non-Scopus Indexed Journals: 5
+- Book Chapters: 18
+- IEEE Conferences: 98
+- International Journals: 33
+
+---
+
+# College Gold Medals
+
+### Gold Medalist 1
+Year: 2017–2021
+Name: Chaluvadi Varshitha
+Roll Number: 178W1A0571
+CGPA: 9.44
+Award: Sri Myneni Sitharama Rao Gold Medal
+
+---
+
+### Gold Medalist 2
+Year: 2016–2020
+Name: Vakada Naveen
+Roll Number: 168W1A0556
+CGPA: 9.58
+Award: Sri Myneni Sitharama Rao Gold Medal

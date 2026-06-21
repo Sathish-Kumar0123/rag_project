@@ -1,0 +1,80 @@
+# B.Tech Result Analysis Summary
+
+This dataset presents batch-wise result analysis for B.Tech students across multiple academic years. It includes total candidates, classification (First Class Distinction, First Class, Second Class), total pass count, and pass percentage.
+
+Overall, the pass percentage ranges from 89.11% to 97.1%, indicating consistently strong academic performance across batches.
+
+---
+
+# B.Tech Result Analysis RAG Chunks
+
+# Chunk 1
+Batch: 2018-22
+Total Candidates: 196
+First Class Distinction: 146
+First Class: 41
+Second Class: 1
+Total Pass: 188
+Pass Percentage: 95.91%
+
+# Chunk 2
+Batch: 2017-21
+Total Candidates: 212
+First Class Distinction: 136
+First Class: 62
+Second Class: 3
+Total Pass: 201
+Pass Percentage: 94.81%
+
+# Chunk 3
+Batch: 2016-20
+Total Candidates: 202
+First Class Distinction: 117
+First Class: 60
+Second Class: 3
+Total Pass: 180
+Pass Percentage: 89.11%
+
+# Chunk 4
+Batch: 2015-19
+Total Candidates: 212
+First Class Distinction: 129
+First Class: 59
+Second Class: 11
+Total Pass: 199
+Pass Percentage: 93.87%
+
+# Chunk 5
+Batch: 2014-18
+Total Candidates: 210
+First Class Distinction: 137
+First Class: 59
+Second Class: 5
+Total Pass: 201
+Pass Percentage: 95.71%
+
+# Chunk 6
+Batch: 2013-17
+Total Candidates: 207
+First Class Distinction: 123
+First Class: 55
+Second Class: 23
+Total Pass: 201
+Pass Percentage: 97.1%
+
+# Chunk 7
+Batch: 2012-16
+Total Candidates: 213
+First Class Distinction: 119
+First Class: 60
+Second Class: 24
+Total Pass: 203
+Pass Percentage: 95.31%
+
+---
+# Summary Chunk
+
+Program: B.Tech
+Analysis Type: Batch wise Result Analysis
+Pass Percentage Range: 89.11% – 97.1%
+Consistent high performance observed across all batches.

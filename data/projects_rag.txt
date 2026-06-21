@@ -1,0 +1,200 @@
+# Projects Summary
+
+This dataset includes Government-funded projects and Seed (self-financed) projects in the CSE department. It covers research domains such as AI, GIS, Remote Sensing, Bioinformatics, Road Safety, and Satellite Imagery.
+
+- Includes Government & Self-Financed Projects
+- Covers multiple funding agencies like NRSC, AICTE, DST, UGC, ADRIN
+- Projects span research, development, and real-world applications
+- Includes ongoing, completed, and pipeline projects
+
+---
+
+# Projects RAG Chunks
+
+# Chunk 1
+Type: Government Project
+Title: Updating of Very Large-Scale Urban GIS Maps with Latest Very High-Resolution Satellite Data Using Deep Learning techniques
+PI/Co-PI: Dr. S. Vasavi, Dr. M. Sobhana
+Funding Agency: NRSC, Hyderabad
+Duration: 2 Years: 2022-24
+Funds: 17.85 Lakhs
+Status: Ongoing
+
+# Chunk 2
+Type: Government Project
+Title: Qualitative and Quantitative Classification of Mixed Bamboo Forests using Geospatial technology
+PI/Co-PI: Dr. K. Srinivas, Dr. K. Suvarna Vani
+Funding Agency: NESAC
+Duration: 3 Years: 2021-24
+Funds: 25.30 Lakhs
+Status: Ongoing
+
+# Chunk 3
+Type: Government Project
+Title: Rational Further Presence of Moral Values, Ethics, Behavioural Sciences Attitudinal Development for Teachers in technical Education
+PI/Co-PI: Dr. Ch. Rupa
+Funding Agency: AICTE-AQIS
+Duration: 2 Years: 2019-21
+Funds: 4.7 Lakhs
+Status: Completed
+
+# Chunk 4
+Type: Government Project
+Title: Scheme to Create and Update general Research Capabilities of Mentee Institute
+PI/Co-PI: Dr. D. Rajeswara Rao
+Funding Agency: AICTE Margdarshan
+Duration: 5 Years: 2018-23
+Funds: 25 Lakhs
+Status: Ongoing
+
+# Chunk 5
+Type: Government Project
+Title: Augmented Reality Tools or Online/Offline Inclusion of Value-Added Services and Analysis
+PI/Co-PI: Dr. M. Nageswara Rao, Mr. Ch. Mukesh
+Funding Agency: Indian Servers
+Duration: 2 Years: 2018-20
+Funds: 7 Lakhs
+Status: Completed
+
+# Chunk 6
+Type: Government Project
+Title: Development of Web-based Tools for Online/Offline Inclusion of Value-Added Services and Analysis on Bhuvan for High Resolution Satellite Imagery
+PI/Co-PI: Dr. K. Suvarna Vani, Dr. N. N. Sastry, Dr. M. Padmaja, Mr. K. Praveen Kumar, Mr. A. Raviraja, Mr. A. Jitendra
+Funding Agency: NRSC
+Duration: 2 Years: 2016-18
+Funds: 14.5 Lakhs
+Status: Completed
+
+# Chunk 7
+Type: Government Project
+Title: A Visual Analytics Tool that Creates a Dashboard for Hidden patterns within Road Accidents Dataset Using Machine Learning Techniques
+PI/Co-PI: Dr. S. Vasavi
+Funding Agency: UGC
+Duration: 2 Years: 2014-16
+Funds: 3.5 Lakhs
+Status: Completed
+
+# Chunk 8
+Type: Government Project
+Title: Development of an Application System for Encoding Schemes in Real Time System
+PI/Co-PI: Dr. Ch. Rupa
+Funding Agency: DST-SERB
+Duration: 3 Years: 2014-17
+Funds: 14.45 Lakhs
+Status: Completed
+
+# Chunk 9
+Type: Government Project
+Title: Robust Video Analytics
+PI/Co-PI: Dr. V. Srinivasa Rao, Dr. S. Vasavi, Dr. K. Srinivas
+Funding Agency: ADRIN
+Duration: 3 Years: 2014-17
+Funds: 18.23 Lakhs
+Status: Completed
+
+# Chunk 10
+Type: Government Project
+Title: Non-Intrusion Real Time Driving Process Ergonomics Monitoring System to Improve Road Safety in a Car PC Environment
+PI/Co-PI: Dr. V. Hima Deepthi
+Funding Agency: DST
+Duration: 3 Years: 2013-16
+Funds: 22.12 Lakhs
+Status: Completed
+
+# Chunk 11
+Type: Government Project
+Title: Mining Alzheimer's Disease Signal Transaction Modularity Drug Target Network
+PI/Co-PI: Dr. V. Srinivasa Rao, Dr. K. Srinivas, Dr. K. Suvarna Vani
+Funding Agency: UGC
+Duration: 3 Years: 2012-15
+Funds: 8.85 Lakhs
+Status: Completed
+
+# Chunk 12
+Type: Government Project
+Title: Assessment of Trees Outside Forests (TOF) Using IRS High Resolution Satellite Images
+PI/Co-PI: Dr. K. Srinivas, Dr. M. Padmaja
+Funding Agency: NRSC
+Duration: 2 Years: 2012-14
+Funds: 10.10 Lakhs
+Status: Completed
+
+# Chunk 13
+Type: Seed Project
+Title: Crop Yield and Price Prediction
+Principal Investigator: Dr. G. Kranti Kumar
+Agency: Siddhartha Academy
+Duration: 1 Year: 2022-23
+Funds: 35000
+Status: Ongoing
+
+# Chunk 14
+Type: Seed Project
+Title: Smart Door Lock Using Simultaneous Face Liveness and Face Detection Algorithms
+Principal Investigator: Dr. G Anuradha
+Agency: Siddhartha Academy
+Duration: 1 Year: 2022-23
+Funds: 26250
+Status: Ongoing
+
+# Chunk 15
+Type: Seed Project
+Title: A Smart Retina Capturing System to Diagnosis Diabetic Retinopathy
+Principal Investigator: Dr. K Suvarna Vani
+Agency: Siddhartha Academy
+Duration: 1 Year: 2018-19
+Funds: 364624
+Status: Ongoing
+
+# Chunk 16
+Type: Seed Project
+Title: Development of Web based Tools for Online/Offline Inclusion of Value-added Services and Analysis on BHUVAN for High Resolution Satellite Imagery
+Principal Investigator: Dr. K Suvarna Vani
+Agency: Siddhartha Academy
+Duration: 1 Year: 2018-19
+Funds: 15000
+Status: Completed
+
+# Chunk 17
+Type: Seed Project
+Title: Divide and Conquer Approach to Contact Map Overlap Problem Using 2D-Pattern Mining of Protein Contact Networks
+Principal Investigator: Dr. K Suvarna Vani
+Agency: Siddhartha Academy
+Duration: 1 Year: 2015-16
+Funds: 163788
+Status: Completed
+
+# Chunk 18
+Type: Seed Project
+Title: Image Feature Extraction Method for Ear Biometrics (Ph.D Work)
+Principal Investigator: Dr. Ramesh Kumar
+Agency: Siddhartha Academy
+Duration: 1 Year: 2015-16
+Funds: 66990
+Status: Completed
+
+# Chunk 19
+Type: Seed Project
+Title: Count the number of trees inside the forest (IBM Cognos Software)
+Principal Investigator: Dr. K Srinivas
+Agency: Siddhartha Academy
+Duration: 1 Year: 2014-15
+Funds: 219311
+Status: Completed
+
+# Chunk 20
+Type: Seed Project
+Title: AdpChips- Agricultural drones (UAV) Positioned Crop Health Imagery for Yield Prediction at Chodavaram Village
+Principal Investigator: Dr. Ramesh Kumar
+Agency: Siddhartha Academy
+Duration: 2 Years
+Funds: 150000
+Status: Pipeline
+
+---
+# Summary Chunk
+
+Domain: Projects (Government + Seed)
+Focus Areas: AI, GIS, Remote Sensing, Bioinformatics, Road Safety
+Funding Agencies: NRSC, AICTE, DST, UGC, ADRIN, Siddhartha Academy
+Project Types: Ongoing, Completed, Pipeline
